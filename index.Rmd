@@ -1,5 +1,22 @@
 ---
-site: blogdown:::blogdown_site
+title: "Feng Tian"
+image: "feng.jpg"
+links:
+  - label: Scholar
+    url: "https://scholar.google.dk/citations?user=09yZAiwAAAAJ&hl=en"
+  # - label: ResearchGate
+  #   url: "https://www.researchgate.net/profile/Feng-Tian-22"
+  # - label: ORCID iD
+  #   url: "https://orcid.org/0000-0002-9686-2769"
+  - label: Email
+    url: "mailto:tian.feng@whu.edu.cn"
+  # - label: GitHub
+  #   url: "https://github.com/fengtian2020/"
+output:
+  postcards::trestles
+site: distill::distill_website
 ---
-
-<!-- This file is for blogdown only. Please do not edit it. -->
+ 
+I am a classically trained data scientist living in the San Francisco Bay Area. 
+Currently I work on the Oculus team at Facebook. I love talking about baseball, 
+true crime podcasts, and causal inference.
