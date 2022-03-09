@@ -14,9 +14,30 @@ links:
   #   url: "https://github.com/fengtian2020/"
 output:
   postcards::trestles
-site: distill::distill_website
 ---
- 
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+
+Hi! I'm Feng Tian, Faculty at School of Remote Sensing and Information Engineering, Wuhan University. I do research with Earth observation data and mainly interested in vegetation dynamics and interaction with environments and human activities.
+
+### Education
+
+[University of Copenhagen](https://ign.ku.dk/english/) \| Denmark
+
+*PhD in Physical Geography \| September 2013 - September 2016*
+
+**China University of Mining & Technology** \| Xuzhou, China
+
+*Successive Master and PhD student in Remote Sensing \| September 2010 - May 2013*
+
+**Inner Mongolia Agriculture University** \| Hohhot, China
+
+*B.S. in Surveying and Mapping Engineering \| August 2006 - July 2010*
+
+### Employment
+
+[Wuhan University](https://en.whu.edu.cn/)\| Faculty \| August 2020 - Present
+
+[Lund University](https://www.nateko.lu.se/)\| Researcher \| January 2020 - July 2020
+
+[Lund University](https://www.nateko.lu.se/)\| Marie-Curie Postdoc Fellow \| January 2018 - December 2019
+
+[University of Copenhagen](https://ign.ku.dk/english/)\| Postdoc \| September 2016 - December 2017
