@@ -2,21 +2,21 @@
 title: "Feng Tian"
 image: "feng.jpg"
 links:
-  - label: Scholar
+  - label: Google Scholar
     url: "https://scholar.google.dk/citations?user=09yZAiwAAAAJ&hl=en"
-  # - label: ResearchGate
-  #   url: "https://www.researchgate.net/profile/Feng-Tian-22"
-  # - label: ORCID iD
-  #   url: "https://orcid.org/0000-0002-9686-2769"
+  - label: ResearchGate
+    url: "https://www.researchgate.net/profile/Feng-Tian-22"
+  - label: ORCID
+    url: "https://orcid.org/0000-0002-9686-2769"
+  - label: GitHub
+    url: "https://github.com/fengtian2020/"
   - label: Email
     url: "mailto:tian.feng@whu.edu.cn"
-  # - label: GitHub
-  #   url: "https://github.com/fengtian2020/"
 output:
   postcards::trestles
 ---
 
-Hi! I'm Feng Tian, Faculty at School of Remote Sensing and Information Engineering, Wuhan University. I do research with Earth observation data and mainly interested in vegetation dynamics and interaction with environments and human activities.
+I work at Wuhan University, interested in monitoring vegetation dynamics with Earth observation data and understanding Earth system processes. I did my PhD at [University of Copenhagen](https://ign.ku.dk/english/) and earned the Faculty PhD prize in 2017. I also got the EU Marie-Curie postdoctoral fellowship hosted by [Lund University](https://www.nateko.lu.se/) to continue research on African semi-arid ecosystems, based on which I had two field trips to Senegal and Zambia. After joining Wuhan University, I extend my research to global mountains and current I am establishing a field site at Nyingchi (Linzhi) in southeastern Tibet Pleatau.\
 
 ### Education
 
