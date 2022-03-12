@@ -16,7 +16,7 @@ output:
   postcards::trestles
 ---
 
-I work at [Wuhan University](https://en.whu.edu.cn/), interested in monitoring vegetation dynamics with Earth observation data and understanding Earth system processes. I did my PhD at [University of Copenhagen](https://ign.ku.dk/english/) and earned the Faculty PhD prize in 2017. I got the EU Marie-Curie postdoctoral fellowship hosted by [Lund University](https://www.nateko.lu.se/) to continue research on African semi-arid ecosystems, based on which I had two field trips to Senegal and Zambia. After joining Wuhan University, I extend my research to global mountains and current I am establishing a field site at Nyingchi (Linzhi) in southeastern Tibet Pleatau.\ 
+I work at [Wuhan University](https://en.whu.edu.cn/), interested in monitoring vegetation dynamics with Earth observation data and understanding Earth system processes. I did my PhD at [University of Copenhagen](https://ign.ku.dk/english/) and earned the Faculty PhD prize in 2017. I got the EU Marie-Curie postdoctoral fellowship hosted by [Lund University](https://www.nateko.lu.se/) to continue research on African semi-arid ecosystems, based on which I had two field trips to Senegal and Zambia. After joining Wuhan University, I extend my research to global mountains and current I am establishing a field site at Nyingchi (Linzhi) in southeastern Tibet Pleatau.\
 
 ```{r, echo=FALSE}
 # ### Education
